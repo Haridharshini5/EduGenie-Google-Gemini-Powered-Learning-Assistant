@@ -1,12 +1,12 @@
-EduGenie - AI Educational Web Application
+#EduGenie - AI Educational Web Application
 
-1. Introduction
+##1. Introduction
 
 EduGenie is an AI-based educational web application. It helps students learn easily using Artificial Intelligence.
 
 Students can ask questions, get simple explanations, generate quizzes, summarize text, and get learning recommendations.
 
-2. Objectives
+##2. Objectives
 
 - To help students learn easily.
 - To answer students' questions using AI.
@@ -15,7 +15,7 @@ Students can ask questions, get simple explanations, generate quizzes, summarize
 - To summarize long text.
 - To recommend learning paths.
 
-3. Technologies Used
+##3. Technologies Used
 
 - Python: Backend programming.
 - FastAPI: Creates the backend and API.
@@ -25,7 +25,7 @@ Students can ask questions, get simple explanations, generate quizzes, summarize
 - Gemini API: Generates AI answers.
 - Uvicorn: Runs the application.
 
-4. Main Features
+##4. Main Features
 
 1. Question and Answer
 
@@ -57,7 +57,7 @@ Recommends learning steps based on the topic and learning level.
 
 Example: Give me a beginner learning path for Python.
 
-5. How It Works
+##5. How It Works
 
 1. The student opens the EduGenie website.
 2. The student selects a feature.
@@ -66,7 +66,7 @@ Example: Give me a beginner learning path for Python.
 5. The AI generates the response.
 6. The result is displayed on the website.
 
-6. Project Structure
+##6. Project Structure
 
 EduGenie/
 ├── main.py
@@ -85,7 +85,7 @@ EduGenie/
 └── tests/
     └── test_quiz.py
 
-7. API Endpoints
+##7. API Endpoints
 
 Method| Endpoint| Purpose
 GET| "/"| Opens the home page
@@ -96,7 +96,7 @@ POST| "/summarize"| Summarizes text
 POST| "/learn/recommendations"| Recommends learning paths
 GET| "/docs"| Shows API documentation
 
-8. API Key
+##8. API Key
 
 EduGenie uses the Google Gemini API to generate AI responses.
 
@@ -107,7 +107,7 @@ GEMINI_MODEL=gemini-2.5-flash
 
 The API key should be kept private.
 
-9. How to Run
+##9. How to Run
 
 Step 1: Open the project in VS Code.
 
@@ -133,7 +133,7 @@ Step 7: Open the website.
 
 http://127.0.0.1:8000
 
-10. Advantages
+##10. Advantages
 
 - Easy to use.
 - Helps students understand topics.
@@ -141,7 +141,7 @@ http://127.0.0.1:8000
 - Makes learning interactive.
 - Offers different learning features in one application.
 
-11. Future Enhancements
+##11. Future Enhancements
 
 - Student login.
 - Save quiz results.
@@ -149,7 +149,7 @@ http://127.0.0.1:8000
 - Support more languages.
 - Add more quiz types.
 
-12. Conclusion
+##12. Conclusion
 
 EduGenie is an AI-powered educational web application that helps students learn easily. It provides question answering, simple explanations, quiz generation, text summarization, and learning recommendations.
 
