@@ -217,13 +217,3 @@ These are possible future improvements and are not necessarily available in the 
 EduGenie is an AI-powered educational web application developed using Python, FastAPI, HTML, CSS, JavaScript, and the Google Gemini API. It provides question answering, simple explanations, quiz generation, text summarization, and personalized learning recommendations.
 
 The main objective of this project is to make education more accessible, interactive, and easier to understand. EduGenie helps students learn topics, practise questions, and organize their studies through a single web application.
-
-15. Short Project Presentation
-
-My project name is EduGenie. It is an AI-powered educational web application developed using Python, FastAPI, HTML, CSS, JavaScript, and the Google Gemini API.
-
-The application has five main features: AI question and answer, simple explanation, quiz generation, text summarization, and personalized learning paths.
-
-Students can enter questions or educational text through the web interface. The backend processes the request and uses AI to generate the required response. The result is then displayed on the web page.
-
-The main aim of EduGenie is to make learning easier, more interactive, and more accessible for students.
