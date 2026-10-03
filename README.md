@@ -158,8 +158,7 @@ uvicorn main:app --reload
 http://127.0.0.1:8000
 
 ### Step 8: Open API Documentation
-
-http://127.0.0.1:8000/docs
+https://drive.google.com/file/d/13aRJfBP4xAf2Za7V-imLQnePf6bEbxWK/view?usp=drivesdk
 
 ## 10. Advantages
 
